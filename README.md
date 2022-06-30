@@ -8,7 +8,7 @@ Production plant; with 120,000 employees and 350 branches, almost all over the w
 ![image](https://user-images.githubusercontent.com/24800888/176578273-bb788168-6d98-458d-aa1b-c4132dabb7e6.png)
 
 ## 2.0 Dataset
-Pesticide Sales data in the Years 2015-2018:<p>
+Bayer's official flagship store online sales data in the Years 2015-2018:<p>
 ![image](https://user-images.githubusercontent.com/24800888/176578397-4faf7401-365e-4352-af41-9ea35e5ad381.png)
 <p>
 Rodenticide niche market:<p>
