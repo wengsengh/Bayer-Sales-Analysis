@@ -54,8 +54,9 @@ Explore the distribution of the total 'sales' for each product 'category' to rep
 5.3 Category Analysis <p>
 1. Select the rodent data in 'category' for further analysis then divide the 'price' to obtain several price ranges.<p>
 2. Calculate for each price range: total sales, sales ratio, total number of products, proportion of products, average product sales, and relative competitiveness<p>
-![image](https://user-images.githubusercontent.com/24800888/176636715-046127f6-1615-4de0-95ca-a7871a224667.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/24800888/176637358-af916c37-0b64-4d0c-b215-5ed109a243e9.png)<p>
+![image](https://user-images.githubusercontent.com/24800888/176637473-174e3938-3f1d-4e76-a335-e2b1269f9e5c.png)<p>
+The results are in descending order of product sales, but the relative competitiveness is in ascending order where the proportion of sales can be known as market share.<p>
+It can be seen that 0-50 has large market capacity, high competition, and large-capacity market (compared to 50-100, small capacity, slightly less competition) 200-250, small competition, a high-priced market, which is an opportunity point.<p>
+5.4 Conclusion for Niche Market<p>
+The 200-250 price segment's products have a high market share and low relative competition, which represents an opportunity. Can consider increasing the investment in order to expand the business for the 200-250 price segment's products.
