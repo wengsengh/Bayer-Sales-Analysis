@@ -35,7 +35,9 @@ This is because it is convenient to analyze the product from the perspective of 
 <p>It can be seen that for rodenticides and anti-moth tablets, the growth rate is relatively stable, while others have decreased or even become negative.<p>
 4.2 Conclusion for Pesticide Market<p>
 - The overall pesticide market is in a stage of rapid growth and tends to grow to maturity.<p>
-- The market share of <b>rodenticide</b> is relatively large (more than 60%), which is about twice that of the second mosquito repellent, and the market growth rate is close to 40%. It can be considered as a star product category, which requires continuous investment and focus.
+- The market share of <b>rodenticide</b> is relatively large (more than 60%), which is about twice that of the second mosquito repellent, and the market growth rate is close to 40%. In the BCG growth-share matrix, it can be considered as a star product category, which requires continuous investment and focus.
+
+![image](https://expertprogrammanagement.com/wp-content/uploads/2011/04/BCG-Matrix-_-Boston-Matrix.png)
 
 ## 5.0 Niche Market Opportunities
 5.1 Business Logic <p>
@@ -53,7 +55,8 @@ Explore the distribution of the total 'sales' for each product 'category' to rep
 <p>It can be seen that the key market to be analyzed is rodent and cockroach control, here I chosen rodent.<p>
 5.3 Category Analysis <p>
 1. Select the rodent data in 'category' for further analysis then divide the 'price' to obtain several price ranges.<p>
-2. Calculate for each price range: total sales, sales ratio, total number of products, proportion of products, average product sales, and relative competitiveness</p>
+2. Calculate for each price range: total sales, sales ratio, total number of products, proportion of products, average product sales, and relative competitiveness <p>
+3. Formula for relative competitiveness: 1-(xi – min(x)) / (max(x) – min(x)) <p>
 
 ![image](https://user-images.githubusercontent.com/24800888/176637358-af916c37-0b64-4d0c-b215-5ed109a243e9.png)
 
